@@ -32,6 +32,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat&logoColor=white)
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
